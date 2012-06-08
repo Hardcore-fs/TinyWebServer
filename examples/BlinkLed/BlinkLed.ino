@@ -3,6 +3,7 @@
 // Copyright 2010 Ovidiu Predescu <ovidiu@gmail.com>
 // Date: December 2010
 // Updated: 08-JAN-2012 for Arduno IDE 1.0 by <Hardcore@hardcoreforensics.com>
+// Updated: 08-JUN-2012 for Arduno IDE 1.0.1 by <Hardcore@hardcoreforensics.com>
 //
 
 #include <pins_arduino.h>
